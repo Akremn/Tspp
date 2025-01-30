@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Tspp.iml" filepath="$PROJECT_DIR$/.idea/Tspp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tspp.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Tspp.test.iml" />
     </modules>
   </component>
 </project>

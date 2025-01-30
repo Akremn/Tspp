@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="MainTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-01-30T09:49:24" hostname="DESKTOP-1QPJKQT" time="0.323">
+<testsuite name="MainTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-01-30T11:52:21" hostname="DESKTOP-1QPJKQT" time="0.506">
   <properties/>
-  <testcase name="testWithMock()" classname="MainTest" time="0.323"/>
+  <testcase name="testWithMock()" classname="MainTest" time="0.506"/>
   <system-out><![CDATA[Mocked Message
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
